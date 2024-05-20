@@ -20,7 +20,7 @@
 
 ## Definitions
 
-> VoxelNet 기반인 **BEV Fusion의 Sensor Fusion 방식을 Pointpainting Model로 변경**하여 Voxelize 범위를 줄여 기존 Model과 성능을 비교한다. 
+> VoxelNet 기반인 **BEV Fusion의 Sensor Fusion 방식을 Pointpainting Model로 변경**하여 Voxelize 범위를 줄여 기존 Model과 성능을 비교한다. <br>
 장애물의 위치, 크기, **Heading, Object Tracking 등 후처리 작업**을 진행한다.
 > 
 
