@@ -25,7 +25,7 @@
 > 
 
 ## Overview
-<img src = "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb17daaef-a691-4340-8c69-d14d42b4e96e%2FBEV_Fusion__PointPainting.png?table=block&id=49c258e5-f892-420a-b54f-3b408f62b062&spaceId=b8076850-8628-41ea-9b5e-a3111230d0da&width=2000&userId=f870e9fc-2ee6-43cd-9de6-36b30dcf91c5&cache=v2" alt = "Process → BEV Fusion + PointPainting " />
+<img width="1372" alt="BEV Fusion + PointPainting" src="https://github.com/user-attachments/assets/4aaf193e-ff60-48fe-82d3-f0615a91f527">
 
 > **2D Camera와 3D LiDAR**를 **Sensor Fusion**하여 3D Object Detection을 하는 방법을 제안한 **BEV Fusion의 Sensor Fusion 방식을 Pointpainting Model로 변경**
 Image의 정보를 잃지 않으면서 원하는 Object의 LiDAR 정보를 가져온다. 
